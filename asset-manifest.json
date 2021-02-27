@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Aksel2410/robotFriends/static/css/main.e27b005a.chunk.css",
+    "main.js": "/Aksel2410/robotFriends/static/js/main.035368ca.chunk.js",
+    "main.js.map": "/Aksel2410/robotFriends/static/js/main.035368ca.chunk.js.map",
+    "runtime-main.js": "/Aksel2410/robotFriends/static/js/runtime-main.216f364c.js",
+    "runtime-main.js.map": "/Aksel2410/robotFriends/static/js/runtime-main.216f364c.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Aksel2410/robotFriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.734ef356.chunk.js": "/Aksel2410/robotFriends/static/js/2.734ef356.chunk.js",
+    "static/js/2.734ef356.chunk.js.map": "/Aksel2410/robotFriends/static/js/2.734ef356.chunk.js.map",
+    "static/js/3.dc1bae7b.chunk.js": "/Aksel2410/robotFriends/static/js/3.dc1bae7b.chunk.js",
+    "static/js/3.dc1bae7b.chunk.js.map": "/Aksel2410/robotFriends/static/js/3.dc1bae7b.chunk.js.map",
+    "index.html": "/Aksel2410/robotFriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Aksel2410/robotFriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.e27b005a.chunk.css.map": "/Aksel2410/robotFriends/static/css/main.e27b005a.chunk.css.map",
+    "static/js/2.734ef356.chunk.js.LICENSE.txt": "/Aksel2410/robotFriends/static/js/2.734ef356.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.216f364c.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.734ef356.chunk.js",
+    "static/css/main.e27b005a.chunk.css",
+    "static/js/main.035368ca.chunk.js"
+  ]
+}
